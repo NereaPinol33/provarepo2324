@@ -1,2 +1,3 @@
 VAig a provar això de git
+Poso una segona linea
 
